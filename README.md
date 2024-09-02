@@ -1,1 +1,1 @@
-# Data-Science-Projects-in-Python-and-R
+# MAchine-Learning-in-Python-and-R
